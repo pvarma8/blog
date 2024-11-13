@@ -2,7 +2,7 @@
 title: "Harnassing the Power of Regular Expressions in Power Automate with Low-Code Plugins in Dataverse"
 date: 2024-11-08T13:40:00-04:00
 author: "Ramakrishna Varma"
-githubname: pvarma_8
+githubname: pvarma8
 # don't change
 categories: ["Community post"]
 # link to the thumbnail image for the post
